@@ -82,4 +82,4 @@
 [The bill of materials can be found here](Manufacturing/BOM_OpenBook.csv)
 
 ## 🎬 Video of the OpenBook
-![](OpenBookEnclosurev6-ezgif.com-video-to-gif-converter.gif)
+![](Images/OpenBookEnclosurev6-ezgif.com-video-to-gif-converter.gif)
