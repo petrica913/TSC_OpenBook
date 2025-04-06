@@ -77,3 +77,6 @@
 | 19         | GPIO21 | SDA                  | I2C data (RTC, BME688, Battery Gauge) | I2C data line                                          |
 | 20         | GPIO22 | SCL                  | I2C clock (RTC, BME688, Battery Gauge)| I2C clock line                                         |
 | 21         | GPIO23 | EPD_RST              | E-Paper Display reset                 | Resets the display                                     |
+
+## 📋 Bill of Materials (BOM)
+[The bill of materials can be found here](Manufacturing/BOM_OpenBook.csv)
