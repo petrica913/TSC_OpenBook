@@ -1,7 +1,7 @@
 # 📘 OpenBook - EBook Reader with ESP32-C6
 
-## Block diagram
-
+## 📊 Block diagram
+![](ESP_32.png)
 
 ## 🧠 Detailed Hardware Description
 
