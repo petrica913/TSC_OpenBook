@@ -80,3 +80,6 @@
 
 ## 📋 Bill of Materials (BOM)
 [The bill of materials can be found here](Manufacturing/BOM_OpenBook.csv)
+
+## 🎬 Video of the OpenBook
+![](OpenBook_video.avi)
